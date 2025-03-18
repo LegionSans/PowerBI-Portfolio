@@ -23,6 +23,6 @@ Here, you’ll find projects showcasing my expertise in **Power BI and DAX**
 ---
 
 ## Connect with Me  
-**Email:** [santiagosilva1997@hotmail.com)  
+**Email:** santiagosilva1997@hotmail.com  
 **LinkedIn:** [www.linkedin.com/in/santiago-silva-394975123](#)  
 
