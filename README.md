@@ -12,7 +12,7 @@ Here, you’ll find projects showcasing my expertise in **Power BI and DAX**
 - **Objective:** Analyzed advertising investments across various dimensions, including **geographical locations, brands, ad types, and vendors**, to identify trends and optimize marketing strategies.
 - **Key Skills:** Power BI, DAX, Data Visualization, Business Intelligence
 
-### [Sports Analytics Dashboard – Tiburones de La Guaira](https://app.powerbi.com/view?r=eyJrIjoiOGUyYjIwMzEtMDBiNC00MzYzLTgwNjgtZjBlNGEyMGY1NDAyIiwidCI6IjQ0OTAzZDRkLTkxYWQtNGM4OC05ZWJkLTg2ZjA3NjQxNGU0ZCIsImMiOjR9)
+### [Sports Analytics Dashboard – Tiburones de La Guaira](https://app.powerbi.com/view?r=eyJrIjoiOGUyYjIwMzEtMDBiNC00MzYzLTgwNjgtZjBlNGEyMGY1NDAyIiwidCI6IjQ0OTAzZDRkLTkxYWQtNGM4OC05ZWJkLTg2ZjA3NjQxNGU0ZCIsImMiOjR9&pageName=ReportSectiond2394a3d966a0ad38c4b)
 - **Objective:** Developed advanced baseball analytics dashboards, leveraging **ETL processes, web scraping, and performance metrics** to provide actionable insights for coaches and staff.
 - **Key Skills:** Power BI, ETL, Python (Web Scraping), Sports Analytics
 
