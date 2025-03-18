@@ -1,7 +1,5 @@
-# 🏆 Data Analytics & Data Science Portfolio  
-
-Welcome to my **Data Analytics & Data Science** portfolio! Here, you’ll find projects showcasing my expertise in **Power BI, SQL, and Python**. I specialize in **data-driven insights, automation, and predictive modeling** to solve real-world business challenges.  
-
+# 🏆 Data Visualization Portfolio  
+Here, you’ll find projects showcasing my expertise in **Power BI and DAX**
 ---
 
 ## 📂 Projects  
@@ -18,7 +16,7 @@ Welcome to my **Data Analytics & Data Science** portfolio! Here, you’ll find p
 - **Objective:** Built a Power BI dashboard to **track radiation exposure**, assisting clinics in monitoring employee safety and ensuring regulatory compliance.
 - **Key Skills:** Power BI, SQL, Data Automation
 
-### 📑 [Tender Analytics Dashboard – Procurement & Bidding Insights](https://app.powerbi.com/view?r=eyJrIjoiZWViYWI5Y2ItZTk5ZS00NzkyLTkwNzktMDg0MDhlZjYxNTJhIiwidCI6IjQ0OTAzZDRkLTkxYWQtNGM4OC05ZWJkLTg2ZjA3NjQxNGU0ZCIsImMiOjR9)
+### [Tender Analytics Dashboard – Procurement & Bidding Insights](https://app.powerbi.com/view?r=eyJrIjoiZWViYWI5Y2ItZTk5ZS00NzkyLTkwNzktMDg0MDhlZjYxNTJhIiwidCI6IjQ0OTAzZDRkLTkxYWQtNGM4OC05ZWJkLTg2ZjA3NjQxNGU0ZCIsImMiOjR9)
 - **Objective:** Developed an analytics dashboard to monitor **tender and procurement processes**, identifying winning bid patterns, supplier performance, and competitive market trends.
 - **Key Skills:** Power BI, Data Analysis, Procurement Insights
 
