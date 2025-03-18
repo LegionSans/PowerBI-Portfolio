@@ -1,4 +1,4 @@
-# 🏆 Data Visualization Portfolio  
+# Data Visualization Portfolio  
 Here, you’ll find projects showcasing my expertise in **Power BI and DAX**
 ---
 
